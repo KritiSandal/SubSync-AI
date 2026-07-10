@@ -92,3 +92,18 @@ class UpdateProfileSerializer(serializers.ModelSerializer):
             "last_name",
             "bio",
         )
+
+from django.contrib.auth.password_validation import validate_password
+
+
+class ChangePasswordSerializer(serializers.Serializer):
+    old_password = serializers.CharField(
+        write_only=True,
+        required=True
+    )
+
+    new_password = serializers.CharField(
+        write_only=True,
+        required=True,
+        validators=[validate_password],
+    )
