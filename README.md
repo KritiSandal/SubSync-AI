@@ -174,23 +174,33 @@ Returns
 
 # 📸 Screenshots
 
-## Login Page
+## 🔐 Login Page
 
-> Add screenshot here
+A secure JWT-based authentication interface with a clean and modern design.
 
----
-
-## Dashboard
-
-> Add screenshot here
+![Login Page](screenshots/login.png)
 
 ---
 
-## Swagger API Documentation
+## 📊 Dashboard
 
-> Add screenshot here
+The main workspace where users can manage projects, view statistics, search projects, and monitor their workspace.
+
+![Dashboard](screenshots/dashboard.png)
 
 ---
+
+## 📚 API Documentation (Swagger)
+
+Interactive API documentation generated using **DRF Spectacular**.
+
+### Authentication, Dashboard & Project APIs
+
+![Swagger Documentation - Part 1](screenshots/swagger-1.png)
+
+### Remaining Endpoints & Schemas
+
+![Swagger Documentation - Part 2](screenshots/swagger-2.png)
 
 # 🚀 Getting Started
 
