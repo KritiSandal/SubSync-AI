@@ -20,13 +20,9 @@ Built with **React**, **Django REST Framework**, **JWT Authentication**, and **R
 
 ---
 
-# 🌐 Live Deployment
+# 🌐 Live API Documentation
 
-### Backend API
-
-https://subsync-ai-ce0l.onrender.com
-
-### Swagger Documentation
+📚 Swagger UI
 
 https://subsync-ai-ce0l.onrender.com/api/docs/
 
