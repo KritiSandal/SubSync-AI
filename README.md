@@ -18,6 +18,20 @@ Built with **React**, **Django REST Framework**, **JWT Authentication**, and **R
 
 ---
 
+---
+
+# 🌐 Live Deployment
+
+### Backend API
+
+https://subsync-ai-ce0l.onrender.com
+
+### Swagger Documentation
+
+https://subsync-ai-ce0l.onrender.com/api/docs/
+
+---
+
 # 📌 Overview
 
 SubSync AI is a modern **Full-Stack SaaS Project Management Platform** that allows authenticated users to manage projects through a clean dashboard backed by secure REST APIs.
